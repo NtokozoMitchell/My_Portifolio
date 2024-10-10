@@ -2,7 +2,7 @@
 Hi There👋!
  I am Ntokozo Nkosi🤗, an Information Technology(Software Developer) Graduate from the Nelson Mandela University.I am a passionate software developer with a focus on full stack development
 
- # 💻 Skills#
+ # 💻 Skills
  - **Languages:** C#,JavaScript, TypeScript, Python
  - **Frontend:** HTML, CSS, ReactJS, Next.js,
  - **Backend:** NodeJS, ExpressJS, FastAPI
