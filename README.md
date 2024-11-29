@@ -19,10 +19,11 @@ A fully-featured e-commerce app with product listing, checkout, admin panel, and
 
 
 ## 🏆 Achievements & Certifications
-- Academic Merit Awards in Cybersecurity and Networking
+- 2x Academic Merit Awards for obtaining an average of +75%
+-  Certification in Cybersecurity and Networking
 - Participated Great Kei Unemployment
 Hackathon
-- Facilitator in the Beyond the Classroom Leadership Program
+- student in the Beyond the Classroom Leadership Program
 
 ## 📫 Contact Me
 - Email: (nkosintokozot@gmail.com)
